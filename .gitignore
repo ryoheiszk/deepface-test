@@ -1,0 +1,6 @@
+check_img/*
+target_img/*
+tmp_face_img/*
+
+!.gitkeep
+.venv/
