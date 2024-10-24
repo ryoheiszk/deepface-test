@@ -17,8 +17,7 @@ source .venv/bin/activate
 ```
 
 ```bash
-pip install deepface
-pip install tf-keras
+pip install deepface tf-keras ultralytics
 ```
 
 ## 実行
